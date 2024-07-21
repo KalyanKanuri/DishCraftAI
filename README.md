@@ -105,6 +105,7 @@ DishCraftAI
 │  ├─ tsconfig.json
 │  ├─ tsconfig.node.json
 │  └─ vite.config.ts
+├─ .gitignore
 ├─ .hintrc
 ├─ docker-compose.yml
 └─ README.md
