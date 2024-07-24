@@ -147,7 +147,6 @@ cython_debug/
 
 # React
 node_modules/
-*.log
 *.lock
 package-lock.json
 yarn.lock
@@ -156,13 +155,10 @@ yarn.lock
 .pnp.js
 .next/
 out/
-build/
-dist/
 .docusaurus/
 .cache/
 .nuxt/
 *.nuxt
-dist/
 vue/
 public/
 static/
@@ -171,5 +167,4 @@ static/
 *.tsbuildinfo
 
 # Miscellaneous
-.DS_Store
 Thumbs.db
